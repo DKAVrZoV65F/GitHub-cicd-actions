@@ -74,6 +74,9 @@
 				</configuration>
 			</plugin>
 		</plugins>
+
+		<finalName>springboot-github-cicd</finalName>
+
 	</build>
 
 </project>
